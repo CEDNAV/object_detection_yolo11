@@ -2,6 +2,8 @@
 
 Este repositorio contiene un ejemplo de detección de objetos de videos usando YOLO en Python, implementado dentro de un Jupyter Notebook.
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AehKhC5lvYgXZhSfBg5sEFwIcW6WBY54)
+
 ## Contenido
 - `object_detection_yolo11.ipynb`: Notebook con el código de detección de objetos.
 
