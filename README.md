@@ -5,6 +5,9 @@ Este repositorio contiene un ejemplo de detección de objetos de videos usando Y
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AehKhC5lvYgXZhSfBg5sEFwIcW6WBY54)
 
 ## Contenido
+Para mejorar el rendimiento del proceso se debe configurar el entorno de ecución en COLAB 
+
+
 - `object_detection_yolo11.ipynb`: Notebook con el código de detección de objetos.
 
 ## Cómo ejecutar el notebook
