@@ -40,6 +40,6 @@ Para ejecutar el notebook, asegúrate de instalar las siguientes bibliotecas:
 Puedes incluir todas las dependencias en un archivo `requirements.txt`.
 
 ---
-[![Demo de YOLO](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=g01fs38vX0Q "Haz clic para ver la demo")
+[!Detección de objetos usando YOLOv11](https://img.youtube.com/vi/o4WZbT8F9eY/hqdefault.jpg)](https://www.youtube.com/watch?v=o4WZbT8F9eY "Haz clic para ver el video")
 
 
