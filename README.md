@@ -1,6 +1,6 @@
 # Object Detection with YOLO
 
-Este repositorio contiene un ejemplo de detección de objetos usando YOLO en Python, implementado dentro de un Jupyter Notebook.
+Este repositorio contiene un ejemplo de detección de objetos de videos usando YOLO en Python, implementado dentro de un Jupyter Notebook.
 
 ## Contenido
 - `object_detection_yolo11.ipynb`: Notebook con el código de detección de objetos.
@@ -40,3 +40,6 @@ Para ejecutar el notebook, asegúrate de instalar las siguientes bibliotecas:
 Puedes incluir todas las dependencias en un archivo `requirements.txt`.
 
 ---
+[![Demo de YOLO](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Haz clic para ver la demo")
+
+
