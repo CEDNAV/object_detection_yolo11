@@ -25,7 +25,7 @@ Este repositorio contiene un ejemplo de detección de objetos de videos usando Y
 ### Opción 2: Ejecutar en línea con Binder
 Haz clic en el botón para ejecutar el notebook en línea:
 
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://www.youtube.com/watch?v=g01fs38vX0Q/main)
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEDNAV/object_detection_yolo11/main)
 
 ---
 
